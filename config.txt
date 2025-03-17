@@ -1,0 +1,2 @@
+net.oussama.extension.DaoImplV2
+net.oussama.metier.MetierImpl
