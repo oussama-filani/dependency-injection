@@ -36,6 +36,7 @@ Avec **Spring XML**, la configuration des dépendances est centralisée dans un 
 #### 🔹 b) Injection via annotations
 Spring permet également d’injecter les dépendances avec des **annotations**, réduisant ainsi la configuration nécessaire et simplifiant la gestion du projet.
 
+![Spring Annotation Injection](./captures/Injection-avec-Annotation.png)
 ---
 
 ## 🏁 Conclusion
